@@ -54,9 +54,3 @@ class MainActivity : ComponentActivity() {
 ## Demo
 
 [Watch a demo of the Slider on YouTube](https://youtube.com/shorts/T65MM-V8zfc?feature=share)
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
